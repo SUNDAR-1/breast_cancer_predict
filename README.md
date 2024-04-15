@@ -67,7 +67,3 @@ model = tf.keras.models.Model(pretrained_model.input, outputs)
 - Breast Cancer Classifier Deployment using Streamlit:
 
   [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://breast-cancer-predict-deploy.streamlit.app)
-
-- Mobile App Breast Cancer Image Prediction
-
-  https://github.com/anggapark/breast-cancer-predict/tree/mobile_app
